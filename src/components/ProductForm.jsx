@@ -1,4 +1,4 @@
-// src/components/ProductForm.jsx
+
 import React, { useState } from 'react';
 
 const ProductForm = ({ onAddProduct }) => {
