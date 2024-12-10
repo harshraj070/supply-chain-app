@@ -6,8 +6,8 @@ import ProductForm from './components/ProductForm';
 
 const App = () => {
   const [products, setProducts] = useState([
-    { name: 'Widget A', status: 'Manufactured', updatedAt: '2024-12-10 10:00 AM' },
-    { name: 'Gadget B', status: 'In Transit', updatedAt: '2024-12-09 3:00 PM' },
+    { name: 'Widget A', status: 'Manufactured', updatedAt: '2024-12-1 10:00 AM' },
+    { name: 'Gadget B', status: 'In Transit', updatedAt: '2024-11-29 3:00 PM' },
   ]);
 
   const handleAddProduct = (product) => {
