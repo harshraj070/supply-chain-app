@@ -1,4 +1,4 @@
-// src/App.js
+
 import React, { useState } from 'react';
 import Header from './components/Header';
 import Dashboard from './components/Dashboard';
